@@ -42,7 +42,7 @@ You can share files by move these into (`Sharing folder`) in this path (`\....\F
 
 ## 🛠️ Built With
 
-* **Python 3.x**
+* **Python 3.8.10**
 * **PyInstaller** (Used to bundle the Python script and all dependencies into a standalone executable)
 * **Standard Python HTTP Modules** (`http.server`, `socket`)
 
