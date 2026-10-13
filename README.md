@@ -1,4 +1,4 @@
-# Local HTTP File-Sharing Server
+# LocalBridge - HTTP File-Sharing Server
 
 A lightweight, portable Local Area Network (LAN) HTTP file-sharing server built with Python and compiled into a standalone Windows executable (`.exe`). 
 
